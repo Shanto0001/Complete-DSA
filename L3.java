@@ -1,4 +1,3 @@
-
 // giving size of Array and input && output
 import java.util.*;
 
