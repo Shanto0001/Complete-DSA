@@ -1,4 +1,3 @@
-
 // Basic Array Code 
 import java.util.*;
 
