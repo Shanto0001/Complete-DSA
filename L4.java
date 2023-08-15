@@ -1,4 +1,4 @@
-//Giving input :- size of array and number then we finding the location of number 
+//Giving input :- size of array and number then we finding the location of number. 
 import java.util.*;
 
 public class L4 {

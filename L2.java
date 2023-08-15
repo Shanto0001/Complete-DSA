@@ -1,5 +1,4 @@
 // Printing number of array by using LOOP && finding sum of marks
-
 import java.util.*;
 
 public class L2 {
